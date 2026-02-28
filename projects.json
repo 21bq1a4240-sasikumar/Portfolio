@@ -1,0 +1,31 @@
+[
+    {
+        "name": "AI based Traffic Management System",
+        "desc": "Developed an Al-powered Traffic Management System to control traffic flow, reduce congestion, and improve road safety.Enhanced transportation planning by providing actionable insights from collected traffic patterns and data analy",
+        "src": "https://skillicons.dev/icons?i=html,css,javascript,github,MYSQL",
+        "alter":"Java,mysql,springboot",
+        "image": "Traffic.jpg",
+        "category": "Backend",
+        "links": {
+            
+            "code": "https://github.com/21bq1a4240-sasikumar/AI-based-Traffic-Management-System",
+            "view": ""
+            
+        }
+    },
+    {
+        "name": "Library Mangement System",
+        "desc": "Developed a Library Management System to organize books, track borrowing/returns, and manage member records, reducing manual work by 40%.",
+        "src": "https://skillicons.dev/icons?i=html,css,javascript,github",
+        "alter":"HTML,CSS,JavaScript",
+        "image": "Library.png",
+        "category": "frontend",
+        "links": {
+            
+            "code": "https://github.com/VinayPathania/Team-Spartans.git",
+            "view": ""
+        }
+    }
+    
+    
+]
